@@ -1,2 +1,3 @@
 # EmbeddedCProject
-A temperature sensor using GPIO configurations and Cortex M7
+Development of an Advanced Temperature Monitoring System utilizing GPIO Configurations and Cortex M7 Boards
+This professional group project focuses on the design and implementation of an advanced temperature sensing system using GPIO configurations and Cortex M7 boards. The project aims to develop a reliable and accurate temperature monitoring solution that can be utilized in various applications, such as industrial processes, environmental monitoring, and home automation. The system will employ temperature sensors, GPIO configurations for data acquisition, and Cortex M7 boards for data processing and analysis. The project will involve hardware design, software development, and integration to create a robust and scalable temperature monitoring solution.
